@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel Scott\\Documents\\Kinematic Solver\\Robot Kinematic Solver.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Scott\\Documents\\Kinematic Solver\\Robot Kinematic Solver\\Robot Kinematic Solver.csproj",
       "projectName": "Robot Kinematic Solver",
-      "projectPath": "C:\\Users\\Gabriel Scott\\Documents\\Kinematic Solver\\Robot Kinematic Solver.csproj",
+      "projectPath": "C:\\Users\\Gabriel Scott\\Documents\\Kinematic Solver\\Robot Kinematic Solver\\Robot Kinematic Solver.csproj",
       "packagesPath": "C:\\Users\\Gabriel Scott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel Scott\\Documents\\Kinematic Solver\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel Scott\\Documents\\Kinematic Solver\\Robot Kinematic Solver\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel Scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
